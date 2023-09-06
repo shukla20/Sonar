@@ -2,17 +2,14 @@
 <h1 align="center">Hey 👋, I'm Shukladevi Sonar</h1>
 <h3 align="center">Passionated on Technology and New skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virender121&label=Profile%20views&color=0e75b6&style=flat" alt="virender121" /> </p>
 
-- 🌱 I’m currently learning *JavaScript, React.js*
+- 🌱 I’m currently learning *JavaScript, React.js, Node.js , Typescript, Python, AIML, Blockchain, Research methodology, Deep Learning, Data Visualisation  *
 
 - 👨‍💻 All of my projects are available at [https://portfolio-virender121.vercel.app/](https://portfolio-virender121.vercel.app/)
 
-- 💬 Ask me about *React.js*
+- 📫 Contact Details*sonarshukla@gmail.com*
 
-- 📫 How to reach me *panku6688t@gmail.com*
-
-- ⚡ Fun fact *I think I am funny🤔🤷‍♂️*
+- ⚡ Fun fact *Coding is fun if uh get required output*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
