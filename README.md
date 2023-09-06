@@ -9,8 +9,7 @@
 
 - 📫 Contact Details *sonarshukla@gmail.com*
 
-- ⚡ Fun fact:
-- *Coding is fun if uh get required output*
+- ⚡ Fun fact: *Coding is fun if uh get required output*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
