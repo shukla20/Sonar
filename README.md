@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-virender121.vercel.app/](https://portfolio-virender121.vercel.app/)
 
-- 📫 Contact Details*sonarshukla@gmail.com*
+- 📫 Contact Details *sonarshukla@gmail.com*
 
 - ⚡ Fun fact *Coding is fun if uh get required output*
 
